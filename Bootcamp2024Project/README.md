@@ -27,6 +27,12 @@ Subsequently, the transformed data is ingested into BigQuery tables for further 
 With the help of dbt, the raw data undergoes transformation, 
 and the insights derived are visualized using Tableau.
 
+# Pipeline
 
-Tableau Dashboard:
-https://github.com/pilanpra/DE-Projects/blob/eb0eed86da9ba4e7710b7c7408bda1c83a63cc1f/Bootcamp2024Project/Reporting%20Files/Dashboard%202023.png
+
+# Tableau Dashboard:
+
+[https://github.com/pilanpra/DE-Projects/blob/eb0eed86da9ba4e7710b7c7408bda1c83a63cc1f/Bootcamp2024Project/Reporting%20Files/Dashboard%202023.png](https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Dashboard%202023.png)
+
+
+https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Time-BART.png
