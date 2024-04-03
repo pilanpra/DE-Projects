@@ -27,6 +27,11 @@ Subsequently, the transformed data is ingested into BigQuery tables for further 
 With the help of dbt, the raw data undergoes transformation, 
 and the insights derived are visualized using Tableau.
 
+# Data Source
+BART, or Bay Area Rapid Transit, is a regional public transportation system serving the San Francisco Bay Area in California, United States. It operates rapid transit services connecting various cities within the Bay Area, including San Francisco, Oakland, and Berkeley, as well as connecting to San Francisco International Airport. BART is known for its distinctive trains and operates primarily underground in urban areas and on elevated tracks in suburban areas. It plays a vital role in the region's transportation infrastructure, facilitating commuter travel and reducing road congestion.
+
+Source: https://www.bart.gov/about/reports/ridership
+
 # Pipeline
 
 ![alt text](https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Pipeline.png?raw=true)
