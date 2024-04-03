@@ -29,6 +29,7 @@ and the insights derived are visualized using Tableau.
 
 # Pipeline
 
+![alt text](https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Pipeline.png?raw=true)
 
 # Tableau Dashboard:
 
