@@ -32,7 +32,7 @@ and the insights derived are visualized using Tableau.
 
 # Tableau Dashboard:
 
-[https://github.com/pilanpra/DE-Projects/blob/eb0eed86da9ba4e7710b7c7408bda1c83a63cc1f/Bootcamp2024Project/Reporting%20Files/Dashboard%202023.png](https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Dashboard%202023.png)
+![alt text](https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Dashboard%202023.png?raw=true)
 
 
-https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Time-BART.png
+![alt text](https://raw.githubusercontent.com/pilanpra/DE-Projects/main/Bootcamp2024Project/Reporting%20Files/Time-BART.png?raw=true)
