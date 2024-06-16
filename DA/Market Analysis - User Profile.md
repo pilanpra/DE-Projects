@@ -24,3 +24,8 @@ Utilized scatter plots and manual segmentation to approximate K-Means clustering
 High spenders on products are predominantly single customers and those with advanced degrees.
 Recommendations for targeted marketing campaigns to focus on high-spending segments and tailor offers to their preferences.
 The project demonstrated a methodical approach to data analysis, customer segmentation, and the development of insights to drive marketing strategies. The outcomes provided a basis for more personalized and effective customer engagement.
+
+
+<img width="573" alt="image" src="https://github.com/pilanpra/DE-Projects/assets/123372942/fb220051-6194-40ac-a860-33567be57edd">
+
+<img width="552" alt="image" src="https://github.com/pilanpra/DE-Projects/assets/123372942/4df2bbcd-3dd5-4198-9bb4-152d8d4cb498">
